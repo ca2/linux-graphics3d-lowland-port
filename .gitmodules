@@ -1,0 +1,12 @@
+[submodule "tinygltf"]
+	path = tinygltf
+	url = ../../cpp-port/tiny-tinygltf
+	branch = main
+[submodule "tinyobjloader"]
+	path = tinyobjloader
+	url = ../../cpp-port/tiny-tinyobjloader
+	branch = main
+[submodule "vkbootstrap"]
+	path = vkbootstrap
+	url = ../../cpp-port/vkbootstrap
+	branch = main
